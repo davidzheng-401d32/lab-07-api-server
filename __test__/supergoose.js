@@ -33,7 +33,7 @@ beforeAll(startDB);
 afterAll(stopDB);
 
 if (!module.parent) {
-  describe('supergoose', () => {
+  xdescribe('supergoose', () => {
     it('can connect', async () => {
       expect(mongoose.connection.db).toBeDefined();
     });

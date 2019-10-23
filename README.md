@@ -1,8 +1,8 @@
-# LAB - 
+# LAB - 07
 
-## Project Name
+## API Server
 
-### Author: Student/Group Name
+### Author: David Zheng 
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
